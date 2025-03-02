@@ -52,6 +52,9 @@ Our model provides insurers with a strategic framework to optimize pricing, adju
 
 ##  Insights Deep Dive
 
+To view the Python code used for this analysis, [click here](https://github.com/your-username/your-repo/blob/main/analysis.py).
+
+
 ### Key Feature Selection:
 Using Random Forest and Gradient Boosting Models, we identified the top seven most influential factors affecting insurance premiums:
 
@@ -99,8 +102,6 @@ We applied the Elbow Method, identifying 4 as the optimal number of clusters for
 The segmentation results indicate that Clusters 1 and 2 pose the highest financial risk to insurers, necessitating higher premiums and strict underwriting measures. In contrast, Cluster 4 presents a significant business opportunity due to lower flood risk and a younger demographic.
 
 ![image](https://github.com/user-attachments/assets/ad804bec-6202-490c-96cc-d76e80d4557f)
-
-The code used for Feature Selection, [click here](Feature Selection - Final code.ipynb)
 
 
 ## Recommendations
