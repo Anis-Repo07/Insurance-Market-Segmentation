@@ -51,7 +51,7 @@ Our model provides insurers with a strategic framework to optimize pricing, adju
 ##  Insights Deep Dive
 
 ### Key Feature Selection:
-Using Random Forest and Gradient Boosting Models, we identified the top six most influential factors affecting insurance premiums:
+Using Random Forest and Gradient Boosting Models, we identified the top seven most influential factors affecting insurance premiums:
 
 Property Living Square Footage
 
@@ -64,6 +64,8 @@ Property Year Built
 100-Year Flood Zone Distance
 
 Age Group
+
+Property Tenure
 
 These factors were used as inputs for the K-Prototypes clustering model to segment the market effectively.
 
