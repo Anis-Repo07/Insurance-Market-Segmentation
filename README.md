@@ -100,6 +100,7 @@ The segmentation results indicate that Clusters 1 and 2 pose the highest financi
 
 ![image](https://github.com/user-attachments/assets/ad804bec-6202-490c-96cc-d76e80d4557f)
 
+The code used for Feature Selection, [click here](Feature Selection - Final code.ipynb)
 
 
 ## Recommendations
