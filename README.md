@@ -20,6 +20,8 @@ Flood Risk Factors: Flood zone, elevation, 100-year flood zone distance
 
 Coastal Risk Factors: Distance to the nearest coast
 
+![Dataset Schema](Data Schema Updated.PNG)
+
 
 Data Cleaning & Preprocessing:-
 
