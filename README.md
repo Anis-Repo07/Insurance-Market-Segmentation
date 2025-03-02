@@ -68,6 +68,7 @@ Age Group
 Property Tenure
 
 These factors were used as inputs for the K-Prototypes clustering model to segment the market effectively.
+![image](https://github.com/user-attachments/assets/55acab6a-dce9-4aa0-93b0-170d09a6a047)
 
 ### Flood Risk Score Development:
 We created a Flood Risk Score by combining Elevation and Distance to Flood Zone, weighted based on their feature importance from the Random Forest Model:
@@ -77,6 +78,9 @@ Elevation (Weight: 0.55)
 Distance to Flood Zone (Weight: 0.45)
 
 This score provided a more granular assessment of flood risk beyond traditional FEMA flood zone classifications, making risk evaluation more precise and actionable.
+
+![image](https://github.com/user-attachments/assets/eb5a21c5-a633-4dbc-8e3a-17a3c3b53439)
+
 
 ### Clustering Methodology & Model Selection:
 Why K-Prototypes?
@@ -91,6 +95,9 @@ We applied the Elbow Method, identifying 4 as the optimal number of clusters for
 
 ### Results of Clusters
 The segmentation results indicate that Clusters 1 and 2 pose the highest financial risk to insurers, necessitating higher premiums and strict underwriting measures. In contrast, Cluster 4 presents a significant business opportunity due to lower flood risk and a younger demographic.
+
+![image](https://github.com/user-attachments/assets/ad804bec-6202-490c-96cc-d76e80d4557f)
+
 
 
 ## Recommendations
