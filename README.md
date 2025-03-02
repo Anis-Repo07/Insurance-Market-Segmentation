@@ -51,10 +51,6 @@ Cluster 4: Moderate flood risk, newer and mid-sized properties
 Our model provides insurers with a strategic framework to optimize pricing, adjust premiums, and manage risk exposure effectively.
 
 ##  Insights Deep Dive
-
-To view the Python code used for this analysis, [click here](Feature Selection - Final code.ipynb).
-
-
 ### Key Feature Selection:
 Using Random Forest and Gradient Boosting Models, we identified the top seven most influential factors affecting insurance premiums:
 
