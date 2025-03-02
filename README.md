@@ -52,7 +52,7 @@ Our model provides insurers with a strategic framework to optimize pricing, adju
 
 ##  Insights Deep Dive
 
-To view the Python code used for this analysis, [click here](https://github.com/your-username/your-repo/blob/main/analysis.py).
+To view the Python code used for this analysis, [click here](Feature Selection - Final code.ipynb).
 
 
 ### Key Feature Selection:
